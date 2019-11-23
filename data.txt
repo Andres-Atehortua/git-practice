@@ -3,3 +3,4 @@ Edad: 24
 Color Favorito: Morado
 Nacion: De fuego
 Cancion Favortia: Dear mama
+Orejas: Dos, afortunadamente.
